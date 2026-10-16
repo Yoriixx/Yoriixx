@@ -6,11 +6,12 @@ Game designer et développeur de plugins Rust, je gère **R.E.C Events**, une co
 
 - **Game design** : conception des événements, des règles et des systèmes de progression
 - **Plugins Rust** (C#, Oxide et Carbon) : outils pour serveurs, vendus sur Codefling
-- **Gestion de communauté** : organisation des événements, support et annonces
+- **Sites web** : création de sites et d'outils web, comme RealmWatch
+- **Gestion de communauté** : organisation des événements R.E.C Events, support et annonces
 
 ## Stack
 
-C# · Rust (plugins) · Oxide / Carbon · Harmony · Git · Discord (webhooks et bots)
+C# · Rust (plugins) · Oxide / Carbon · Harmony · HTML · CSS · JavaScript · Git · Discord (webhooks et bots)
 
 ## Projets
 
