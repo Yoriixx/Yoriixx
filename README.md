@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yorixx 👋
 
-<!--
-**Yoriixx/Yoriixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game designer et développeur de plugins Rust, je gère **R.E.C Events**, une communauté d'événements sur serveurs Rust.
 
-Here are some ideas to get you started:
+## Ce que je fais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Game design** : conception des événements, des règles et des systèmes de progression
+- **Plugins Rust** (C#, Oxide et Carbon) : outils pour serveurs, vendus sur Codefling
+- **Gestion de communauté** : organisation des événements, support et annonces
+
+## Stack
+
+C# · Rust (plugins) · Oxide / Carbon · Harmony · Git · Discord (webhooks et bots)
+
+## Projets
+
+- **Wipe Pass** : battle pass par wipe avec défis quotidiens et saisonniers
+- **Yorixx Hub** : menu et outils d'administration pour serveurs Rust (gratuit)
+- **Informant** : suivi d'informations de serveur en jeu
+- **Death Recap** : récapitulatif de mort pour les joueurs
+
+## Me contacter
+
+- Discord support : https://discord.gg/3WQ6qGCbjR
+- R.E.C Events : https://discord.gg/APmF53mjgv
