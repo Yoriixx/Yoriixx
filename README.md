@@ -1,26 +1,26 @@
 # Hi, I'm Yorixx 👋
 
-Game designer et développeur de plugins Rust, je gère **R.E.C Events**, une communauté d'événements sur serveurs Rust.
+Game designer and Rust plugin developer. I'm one of the admins of **R.E.C Events**, a community and organisation running French and international events on Rust.
 
-## Ce que je fais
+## What I do
 
-- **Game design** : conception des événements, des règles et des systèmes de progression
-- **Plugins Rust** (C#, Oxide et Carbon) : outils pour serveurs, vendus sur Codefling
-- **Sites web** : création de sites et d'outils web, comme RealmWatch
-- **Gestion de communauté** : organisation des événements R.E.C Events, support et annonces
+- **Game design**: event design, rules, and progression systems
+- **Rust plugins** (C#, Oxide and Carbon): server tools, sold on Codefling
+- **Websites**: web projects and tools, such as RealmWatch
+- **Community management**: organising R.E.C Events, support, and announcements
 
 ## Stack
 
-C# · Rust (plugins) · Oxide / Carbon · Harmony · HTML · CSS · JavaScript · Git · Discord (webhooks et bots)
+C# · Rust (plugins) · Oxide / Carbon · Harmony · HTML · CSS · JavaScript · Git · Discord (webhooks and bots)
 
-## Projets
+## Projects
 
-- **Wipe Pass** : battle pass par wipe avec défis quotidiens et saisonniers
-- **Yorixx Hub** : menu et outils d'administration pour serveurs Rust (gratuit)
-- **Informant** : suivi d'informations de serveur en jeu
-- **Death Recap** : récapitulatif de mort pour les joueurs
+- **Wipe Pass**: wipe-based battle pass with daily and seasonal challenges
+- **Yorixx Hub**: admin menu and tools for Rust servers (free)
+- **Informant**: in-game server information tracking
+- **Death Recap**: death recap for players
 
-## Me contacter
+## Contact
 
-- Discord support : https://discord.gg/3WQ6qGCbjR
-- R.E.C Events : https://discord.gg/APmF53mjgv
+- Plugin support Discord: https://discord.gg/3WQ6qGCbjR
+- R.E.C Events: https://discord.gg/APmF53mjgv
